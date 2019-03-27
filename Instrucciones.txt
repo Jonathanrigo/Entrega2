@@ -1,0 +1,32 @@
+***********para ejecutar el archivo ***********
+
+Ingresar en el cmd la palabra node index mas uno de los iguientes comandos:
+
+1. crear: crea un nuevo curso con los parametros -n nombre -i codigo -d descripcion -v valor (estos campos son obligatorios).
+
+2. mostrar: muestra la informacion basica de un curso.
+
+3. mostrarcurso: muestra la informacion detallada de un curso requiere el nombre como parametro -n nombre.
+
+4. registrar: matricula un estudiante a la institucion con los parametros
+-n nombre -i identificacion -c correo -t telefono.
+
+5. inscribir: permite inscribir estudiantes matriculador a un curso como parametros requere -n nom estudiante -i identi estudiante -c nombre curso.
+
+6. mostrarcursosdisponibles: muestra la lista de los cursos disponibles.
+
+7. mostrarinscritos: muestra los estudiantes inscritos en cada curso.
+ 
+8. actualizar: actualiza el estado de un curso requiere como parametro 
+-i codigo del curso
+
+9. eliminarInscrito: elimina un estudiante de un curso requiere como parametro
+-i ident del estudiante -c nombre del curso
+
+*****  comandos complementarios: *****
+
+10. mostrarcursodisponible: busca si un curso especifico esta disponible ingresando como parametro el nombre. -n nombrecurso
+
+11. registrados: muestra la lista de estudiantes matriculados
+
+
